@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CasDeTest_complexe Type="Test Suite">
+  <SuccessfullTests>4</SuccessfullTests>
+  <FailedTests>0</FailedTests>
+  <testOmega.CasDeTest_complexe Type="Test Case">
+    <SuccessfullTests>4</SuccessfullTests>
+    <FailedTests>0</FailedTests>
+    <test_un_egale_un_entier Type="Test">
+      <SuccessfullTests>1</SuccessfullTests>
+      <FailedTests>0</FailedTests>
+    </test_un_egale_un_entier>
+    <test_un_egale_un_entier2 Type="Test">
+      <SuccessfullTests>1</SuccessfullTests>
+      <FailedTests>0</FailedTests>
+    </test_un_egale_un_entier2>
+    <test_un_egale_un_chaine Type="Test">
+      <SuccessfullTests>1</SuccessfullTests>
+      <FailedTests>0</FailedTests>
+    </test_un_egale_un_chaine>
+    <test_types_differents Type="Test">
+      <SuccessfullTests>1</SuccessfullTests>
+      <FailedTests>0</FailedTests>
+    </test_types_differents>
+  </testOmega.CasDeTest_complexe>
+</CasDeTest_complexe>

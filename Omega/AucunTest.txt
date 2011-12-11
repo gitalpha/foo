@@ -1,0 +1,7 @@
+Result
+======
+Type : Test Suite
+Name : AucunTest
+Successful tests : 0
+Failed tests : 0
+
